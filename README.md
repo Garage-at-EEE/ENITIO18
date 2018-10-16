@@ -13,7 +13,7 @@ Learn more about Arduino [HERE](https://www.arduino.cc/en/Guide/HomePage)
 ### Non-Blaster Games
 * [Bomb Defusal](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Bomb%20Defusal)
 * [Laser Maze](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Laser%20Maze)
-* [RF Car](https://github.com/Garage-at-EEE/ENITIO18/tree/master/RF%20Car)
+* [Handcrank Car](https://github.com/Garage-at-EEE/ENITIO18/tree/master/RF%20Car)
 
 ## Team
 ENITIO 2018 Tech Team is headed by Kenneth Chee, supported by Tan Pin Da and Xiao Feng.
