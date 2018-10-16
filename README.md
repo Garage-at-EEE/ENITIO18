@@ -10,6 +10,7 @@ All games are developed using Arduino.
 Learn more about Arduino [HERE](https://www.arduino.cc/en/Guide/HomePage)
 
 ## Games
+### Non-Blaster Games
 * [Bomb Defusal](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Bomb%20Defusal)
 * [Laser Maze](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Laser%20Maze)
 * [RF Car](https://github.com/Garage-at-EEE/ENITIO18/tree/master/RF%20Car)
