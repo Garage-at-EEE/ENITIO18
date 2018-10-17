@@ -15,8 +15,12 @@ Setup with RC522 card reader can be found at https://pimylifeup.com/raspberry-pi
 This program also uses vlc player. Type "sudo apt-get install vlc" into terminal to install in raspberry pi.
 
 ## Credits
-Libraries used include (python3):  
-tkinter, PIL, pyqrcode, and RPi.GPIO, pypng  
+Libraries used (python3):  
+* tkinter
+* PIL
+* pyqrcode
+* RPi.GPIO
+* pypng  
 
 ## Team
 [Cheng Kuan Yong Jason](https://github.com/Jason-CKY)
