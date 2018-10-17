@@ -14,6 +14,7 @@ Learn more about Arduino [HERE](https://www.arduino.cc/en/Guide/HomePage)
 * [Bomb Defusal](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Bomb%20Defusal)
 * [Laser Maze](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Laser%20Maze)
 * [Handcrank Car](https://github.com/Garage-at-EEE/ENITIO18/tree/master/RF%20Car)
+* [Morse Revelations](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Morse%20Revelations)
 
 ## Team
 ENITIO 2018 Tech Team is headed by Kenneth Chee Wai Kuin, supported by Tan Pin Da and Xiao Feng.
