@@ -14,6 +14,8 @@ Setup with RC522 card reader can be found at https://pimylifeup.com/raspberry-pi
 
 This program also uses vlc player. Type "sudo apt-get install vlc" into terminal to install in raspberry pi.
 
+Additional sound files can be found [HERE](https://github.com/Jason-CKY/Morse-Decoder-GUI/tree/master/res)
+
 ## Credits
 Libraries used (python3):  
 * tkinter
