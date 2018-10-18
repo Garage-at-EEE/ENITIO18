@@ -17,6 +17,6 @@ Learn more about Arduino [HERE](https://www.arduino.cc/en/Guide/HomePage)
 * [Morse Revelations](https://github.com/Garage-at-EEE/ENITIO18/tree/master/Morse%20Revelations)
 
 ## Team
-ENITIO 2018 Tech Team is headed by Kenneth Chee Wai Kuin, supported by Tan Pin Da and Xiao Feng.
+ENITIO 2018 Tech Team is headed by [Kenneth Chee](https://github.com/knnthhtnnk), supported by Tan Pin Da and Xiao Feng.
 Each game has its own team of students who helped create the game listed in the Team section of its README.
 
